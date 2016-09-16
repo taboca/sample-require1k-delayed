@@ -7,6 +7,11 @@ Note
 
 Require1k is https://github.com/Stuk/require1k and the script was placed here in vendor directory
 
+## Run
+
+* npm instal
+* node index.js
+
 ## Author
 
 This is an experiment and learning initiative. Please contribute to the discussion. 
